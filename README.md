@@ -75,9 +75,4 @@ The repository may contain exercises using technologies and programming concepts
 - Debugging tools
 - AI-assisted development
 
-## 🚀 How to Use
 
-Clone the repository:
-
-```bash
-git clone https://github.com/mohitjangid187
